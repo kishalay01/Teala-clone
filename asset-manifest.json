@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Teala-clone/static/css/main.53c71165.css",
+    "main.js": "/Teala-clone/static/js/main.bc9d2145.js",
+    "static/media/logo.svg": "/Teala-clone/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/Teala-clone/index.html",
+    "main.53c71165.css.map": "/Teala-clone/static/css/main.53c71165.css.map",
+    "main.bc9d2145.js.map": "/Teala-clone/static/js/main.bc9d2145.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c71165.css",
+    "static/js/main.bc9d2145.js"
+  ]
+}
